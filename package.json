@@ -1,0 +1,22 @@
+{
+  "name": "aldojavier-hackatonbbva2019",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@globaldevtools.bbva.com:7999/~aldojavier.mendoza/aldojavier-hackatonbbva2019.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "neo4j-driver": "*",
+    "body-parser": "^1.19.0"
+  }
+}
